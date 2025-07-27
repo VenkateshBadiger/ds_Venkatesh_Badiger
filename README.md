@@ -1,6 +1,6 @@
 # Trader Behavior and Market Sentiment Analysis
 
-### ## Project Overview
+### Project Overview
 
 This project performs a comprehensive analysis of trader behavior on the Hyperliquid platform by correlating it with the Bitcoin Fear & Greed Index. The primary goal is to uncover actionable insights by examining how specific metrics change during different market sentiment periods (Fear vs. Greed).
 
@@ -13,7 +13,7 @@ The key areas of analysis include:
 
 ---
 
-### ## Project Structure
+### Project Structure
 
 The repository follows the required submission format:
 
@@ -26,7 +26,7 @@ The repository follows the required submission format:
 
 ---
 
-### ## How to Run the Analysis
+### How to Run the Analysis
 
 1.  **Open Notebook**: Open `notebook_1.ipynb` in Google Colab.
 2.  **Upload Data**: Upload the two initial datasets (`historical_data.csv` and `fear_greed_index.csv`) to the Colab environment.
